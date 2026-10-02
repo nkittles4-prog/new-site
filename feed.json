@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "kittles.me",
+    "description": "",
+    "home_page_url": "https://nkittles4-prog.github.io/new-site",
+    "feed_url": "https://nkittles4-prog.github.io/new-site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "kittles"
+    },
+    "items": [
+        {
+            "id": "https://nkittles4-prog.github.io/new-site/hello-world.html",
+            "url": "https://nkittles4-prog.github.io/new-site/hello-world.html",
+            "title": "Hello, World!",
+            "summary": "Kittles.me is a personal project by Noah Kittles. More will be coming to this site soon.",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/IMG_0775.jpeg\" data-size=\"5712x4284\"><img loading=\"lazy\" src=\"https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/IMG_0775-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/IMG_1908.jpeg\" data-size=\"5712x4284\"><img loading=\"lazy\" src=\"https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/IMG_1908-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/IMG_1017.jpeg\" data-size=\"5712x4284\"><img loading=\"lazy\" src=\"https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/IMG_1017-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/E05E5B39-BB3C-439D-A5D9-F66AD45A69BD.jpeg\" data-size=\"1440x1799\"><img loading=\"lazy\" src=\"https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/E05E5B39-BB3C-439D-A5D9-F66AD45A69BD-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"900\"></a></figure>\n</div></div>\n<p>Kittles.me is a personal project by Noah Kittles. More will be coming to this site soon. </p>\n<hr>\n<p> </p>",
+            "author": {
+                "name": "kittles"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-01T19:52:22-06:00",
+            "date_modified": "2026-10-01T19:52:22-06:00"
+        }
+    ]
+}

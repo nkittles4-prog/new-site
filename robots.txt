@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nkittles4-prog.github.io/new-site/sitemap.xml

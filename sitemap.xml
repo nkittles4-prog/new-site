@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://nkittles4-prog.github.io/new-site/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://nkittles4-prog.github.io/new-site/</loc>
+</url>
+<url>
+<loc>https://nkittles4-prog.github.io/new-site/hello-world-2.html</loc>
+<lastmod>2026-10-01T19:59:26-06:00</lastmod>
+<image:image>
+<image:loc>https://nkittles4-prog.github.io/new-site/media/posts/2/gallery/IMG_0775.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nkittles4-prog.github.io/new-site/media/posts/2/gallery/IMG_1908.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nkittles4-prog.github.io/new-site/media/posts/2/gallery/IMG_0748.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nkittles4-prog.github.io/new-site/media/posts/2/gallery/E05E5B39-BB3C-439D-A5D9-F66AD45A69BD.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://nkittles4-prog.github.io/new-site/hello-world.html</loc>
+<lastmod>2026-10-01T19:52:22-06:00</lastmod>
+<image:image>
+<image:loc>https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/IMG_0775-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/IMG_1908-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/IMG_1017-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nkittles4-prog.github.io/new-site/media/posts/1/gallery/E05E5B39-BB3C-439D-A5D9-F66AD45A69BD-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
